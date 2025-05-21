@@ -16,7 +16,7 @@ ideal_price = df['Avg Price'].mean()
 std_dev = df['Avg Price'].std()
 df['Price Accessibility'] = np.exp(-((df['Avg Price'] - ideal_price) ** 2) / (2 * std_dev ** 2)).round(4)
 
-# --- Save updated intermediate version ---
+# --- save features to csv ---
 os.makedirs("../data", exist_ok=True)
 df.to_csv("../data/features.csv", index=False)
 
