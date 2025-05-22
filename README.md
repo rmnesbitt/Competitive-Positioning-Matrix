@@ -34,21 +34,25 @@ Steps:
 
 ---
 
+
 ## Insight
 
-**My Company** is positioned squarely in the **middle of the competitive field**. Its **Market Reach outweighs its Perceived Value by a factor of 2.5**, indicating that while the company has successfully scaled its presence, it has yet to achieve proportional differentiation in the eyes of customers.
+**My Company is ranked just below the midpoint of the market.** While our **Perceived Value ranks in the top third (8th–9th of 27)**, our **Market Reach is much lower (21st–22nd)**. This indicates we are delivering strong value, but not reaching a wide enough audience.
 
 ---
 
 ## Final Recommendation
 
-To move into the **top 3 strategic performers**, we recommend a **30/70 resource split**:
-- Allocate **30%** of effort to maintaining and modestly expanding Market Reach
-- Allocate **70%** toward improving Perceived Value, by:
-  - Enhancing customer experience (CX)
-  - Strengthening brand messaging and trust
-  - Boosting loyalty and advocacy (NPS)
+To break into the **top 5 strategic performers**, we recommend a **resource allocation shift** toward scaling reach while maintaining existing value strength.
 
-This rebalancing effort will help shift the company upward on the value axis — turning reach into defensible advantage.
+### Resource Allocation: **70% Reach / 30% Value**
+- **Reach Priorities:**
+  - Expand distribution and exposure
+  - Broaden product access or market footprint
+  - Increase visibility through brand and marketing investment
 
----
+- **Value Maintenance:**
+  - Preserve customer experience (CX)
+  - Maintain loyalty and advocacy (NPS)
+
+> Closing this reach gap while maintaining value could position us for a **Top 5 strategic ranking within the next few years**.
